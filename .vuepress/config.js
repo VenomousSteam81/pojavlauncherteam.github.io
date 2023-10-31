@@ -68,7 +68,7 @@ module.exports = {
         lastUpdated: true,
         repo: 'https://github.com/PojavLauncherTeam/PojavLauncherTeam.github.io/',
 		docsDir: '',
-		docsBranch: 'main',
+		docsBranch: 'lunaveux-patch-1',
 		editLinks: true,
 		editLinkText: 'Help us improve this page!',
         logo: 'logo.png',
@@ -133,7 +133,7 @@ module.exports = {
 					children: [
 						'CUSTOM-CONTROLS', // Customizing the on-screen controls
 						'OPTIMIZATION', // Optimizing the game
-						'MODDED-MC', // Modded Minecraft!
+						'CUSTOM-MC', // Custom Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
 						'ENV-VARS', // Using environment variables
 						'JAVA-ARGS', // Adding custom Java arguments
